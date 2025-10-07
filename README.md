@@ -4,11 +4,9 @@
 
 
   <img src="https://github.com/user-attachments/assets/b7a4ce2d-20f7-4a12-8cb4-530f36fb1950" width="200" alt="Logo do Projeto"><br>
-  Sistema Web, Desk e Mobile com Integração de IA
+  Sistema Web, Desk e Mobile com Integração de IA, para atendimento e resolução de chamados em TI.
   <br>
   *Status do Projeto: Em Desenvolvimento*
-
-
 <br>
 
 
