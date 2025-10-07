@@ -3,6 +3,6 @@
 
 Toda a documentação do projeto está disponível na pasta [documentação](./docs) do repositório.  
 
-Ou você pode acessar diretamente clicando aqui: [Pasta de Documentação](docs)
+Ou você pode acessar diretamente clicando aqui: [Pasta de Documentação](PIM4_Maio/docs)
 
 <br>
